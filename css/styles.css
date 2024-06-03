@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background-image: url('../images/kuta-beach.jpg');
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+}
